@@ -2,7 +2,7 @@
   Next Level Week - 3ª Edição
 </h2>
 
-<h1 align="center">happy</h1>
+<h1 align="center"><strong>Happy</strong></h1>
 
 <p align="center">
   <a href="#rocket-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,12 +15,12 @@
 <br>
 
 <h1 align="center">
-    <img  width="43%" alt="Happy" title="Happy" src=".github/happy.png"  />
+    <img  width="83%" alt="Happy" title="Happy" src=".github/happy.png"  />
 </h1>
 
 ## :rocket: Projeto
 
-O <strong>Happy</strong> é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz purple_heart
+O <strong>Happy</strong> é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz :purple_heart:
 
 O objetivo desse projeto é colocar em prática todo o conhecimento adquirido na semana da <strong>Next Level Week - 3ª Edição</strong>.
 Essa semana insana foi ministrada pelo instrutor [Diego Fernandes](https://github.com/diego3g) CTO da [Rocketseat](https://rocketseat.com.br/). Mais uma vez a equipe [Rocketseat](https://rocketseat.com.br/) surpreendendo e contribuindo para nosso conhecimento.
