@@ -23,7 +23,7 @@
 O <strong>Happy</strong> é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz :purple_heart:
 
 O objetivo desse projeto é colocar em prática todo o conhecimento adquirido na semana da <strong>Next Level Week - 3ª Edição</strong>.
-Essa semana insana foi ministrada pelo instrutor [Diego Fernandes](https://github.com/diego3g) CTO da [Rocketseat](https://rocketseat.com.br/). Mais uma vez a equipe [Rocketseat](https://rocketseat.com.br/) surpreendendo e contribuindo para nosso conhecimento.
+Essa semana insana foi ministrada pelo instrutor [Diego Fernandes](https://github.com/diego3g) CTO da [Rocketseat](https://rocketseat.com.br/). Mais uma vez a equipe [Rocketseat](https://rocketseat.com.br/) surpreendendo, contribuindo para nosso conhecimento.
 
 
 ## :artificial_satellite: Tecnologias
